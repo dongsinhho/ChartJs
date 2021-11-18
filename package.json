@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ccxt": "^1.61.46",
+    "js-cookie": "^3.0.1"
+  }
+}

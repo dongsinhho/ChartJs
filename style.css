@@ -1,0 +1,12 @@
+#abc {
+    display: flex ;
+    justify-content: center;
+}
+
+.btn-primary {
+    background-color: brown !important;
+}
+canvas {
+    width: 800px !important;
+    height: 600px !important;
+}
